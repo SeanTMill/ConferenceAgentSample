@@ -1,0 +1,41 @@
+{
+    "partnership_levels": {
+        "diamond_partners": [
+            "OmniVerse Technologies"
+        ],
+        "platinum_partners": [
+            "QuantumBridge AI",
+            "HyperCompute Nexus",
+            "NeuralSphere Solutions"
+        ],
+        "gold_partners": [
+            "VectorShift",
+            "CogniFlow",
+            "DataVortex",
+            "SynthMind",
+            "AlgoRhythm",
+            "OptiML"
+        ],
+        "silver_partners": [
+            "NeuroNet",
+            "FlexMind",
+            "CyberSynapse",
+            "InfoPulse",
+            "LogicLoop"
+        ],
+        "exhibitor_and_supporting_partners": [
+            "GPTify",
+            "TensorHive",
+            "ZetaFlux",
+            "MindMeld.io",
+            "AutoCogni",
+            "NeuralNoodle",
+            "BlobStore.ai",
+            "HyperGrok",
+            "Quanti",
+            "DriftLess Ops",
+            "SynerGet",
+            "RapidTensor"
+        ]
+    }
+}
